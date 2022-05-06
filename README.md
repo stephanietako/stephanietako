@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Am a beginner fullstack developer 🐙
+Am a beginner web developer 🐙
 
 
