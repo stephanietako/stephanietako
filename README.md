@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Am a beginner web developer 🐙 Mainly focused on a javascript environment 
+Am a beginner web developer 🐙 Mainly focused on a JavaScript environment 
 
-I first started in ruby and ruby on rails which allowed me to consolidate my desire to become a professional Web developer.
-So I decided to do the training at OpenClassrooms to focused on my goal with passion
+I have notions of ruby and ruby on rails however my interest is particularly focused on javascript.
+That's why I decided to do the Openclassrooms training in web development in order to focus on my goal with passion.
 
 
