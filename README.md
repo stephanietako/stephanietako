@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Am a beginner web Developer 🐙 
+Web Developer Junior 🐙 
 
 I have notions on ruby and ruby on rails however my interest is mainly focused on JavaScript
 <div align="center">
